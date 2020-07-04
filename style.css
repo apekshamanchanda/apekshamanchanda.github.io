@@ -1,0 +1,112 @@
+/**{
+  margin: 0;
+}
+header{
+  background-image:linear-gradient(rgba(248, 247, 216, 0.4),rgba(248, 247, 216, 0.1)), url("https://www.fredhutch.org/content/dam/www/about-us/education/girls-who-code/Gal3-GWC-Clubs-3480.jpg");
+  height: 70vh;
+  background-size:cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+
+}
+.over{   width:100%;
+     height:15%;
+     
+  
+  
+}
+.head{  font-family: sans-serif;
+  padding: 20px;
+  float:left;
+   display:inline-block;
+color:#fd98aa;
+background:black;
+margin:10px;*/
+/*}
+nav{   font-family: sans-serif;
+  float:right;
+  display:inline-block;
+  padding: 20px;
+
+}*/
+/*.first{  
+  color:black;
+  padding: 10px;
+  text-decoration: none;
+  border: 5px solid black;
+background:	#FF69B4;
+ display:inline-block;
+  width:50px;
+
+}
+.sec{  
+  color:black;
+  padding:10px;
+  text-decoration: none;
+  border: 5px solid black;
+background:#FF69B4;
+ display:inline-block;
+  width:80px;
+
+}*/
+
+
+.box{ 
+  padding: 20px;
+     border:3px solid grey;
+     margin:auto;
+   font-family: sans-serif;
+   width:30%
+   box-shadow: 10px 10px 10px 10px grey;
+  background:rgba(0,0,0,0.9);
+   color:white;
+  margin:.5% 4%;
+ }
+ .active{
+  margin-left:4%;
+  font-size:150%;
+
+ }
+ .sec{
+  
+font-size:150%;
+ }
+ .heading
+{
+  color:white;
+  display:inline-block;
+  font-size:250%;
+
+width:100%;
+margin:3%;
+}
+.blog{
+  font-size:150%;
+}
+
+ .box2{
+  padding: 20px;
+     border:3px solid grey;
+     margin:auto;
+   font-family: sans-serif;
+   width:30%
+   box-shadow: 10px 10px 10px 10px grey;
+   background:black;
+   margin-bottom:10px;
+   color:white;
+   margin:.5% 4%;
+   background:rgba(0,0,0,0.9);
+  }
+ .sub{
+  color: grey;
+  font-size:100%;
+ }
+ .content{
+   
+   color:white;
+   border:2px white;
+   border-radius:5px;
+    font-size:200%;
+
+ }
